@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "author": "Anonymous maker",
+    "author": "Rafaella Reis",
     "editor": "wokwi",
     "parts": [
       { "type": "wokwi-breadboard-half", "id": "bb1", "top": -223.8, "left": -170, "attrs": {} },
